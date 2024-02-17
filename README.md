@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theziko1" alt="theziko1" /></a> </p>
 
-- 📫 How to reach me **zakariaghachim96@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+- 📫 How to reach me **zakariaghachim96@gmail.com**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,bootstrap,tailwindcss,redux,html,css,express,nodejs,mongodb,mysql,git,figma,postman&theme=light)](https://skillicons.dev)
 
