@@ -10,23 +10,23 @@
 - 📫 How to reach me **zakariaghachim96@gmail.com**
 
 
-<h3 align="center">Programming languages</h3>
+<h3 align="left">Programming languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python&theme=light)](https://skillicons.dev)
 
-<h3 align="center">Front-end development</h3>
+<h3 align="left">Front-end development</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss,redux&theme=light)](https://skillicons.dev)
 
-<h3 align="center">Back-end development</h3>
+<h3 align="left">Back-end development</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,mysql&theme=light)](https://skillicons.dev)
 
-<h3 align="center">Tools</h3>
+<h3 align="left">Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman&theme=light)](https://skillicons.dev)
 
-<h3 align="center">UI / UX</h3>
+<h3 align="left">UI / UX</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
